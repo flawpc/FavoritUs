@@ -1,0 +1,1 @@
+javascript:window.location='http://www.favoritus.com/post.php?lang=EN&amp;gettitle=' + escape(document.title.replace(/ /g,'+')) + '&amp;getlink=' + escape(location.href);
